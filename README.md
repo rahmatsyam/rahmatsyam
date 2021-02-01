@@ -1,7 +1,6 @@
 # Hi, I'm Rahmat Syam
 
-Currently working as Android Developer and still learning.
-
+Like a code chemist who mixes up several codes and dhuaaar. Keep learning on android development. 
 
 ### Stats:
 <img src="https://gpvc.arturio.dev/omrobbie" />
